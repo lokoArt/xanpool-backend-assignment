@@ -7,7 +7,7 @@ The service should return the rate between pairs, you can use https://fixer.io/ 
 The service should implement caching in order to avoid constant requests to the oracle, the cache should be updated every 1 hour in the background. 
 The following currencies should always be in cache and updated on a regular basis(1 hour)
 1) USD-SGD, SGD-USD
-2) USDK-HKD, HKD-USD
+2) USD-HKD, HKD-USD
 
 Other pairs could be updated upon accepting requests. 
 
