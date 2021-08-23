@@ -12,7 +12,7 @@ The following currencies should always be in cache and updated on a regular basi
 Other pairs could be updated upon accepting requests. 
 
 Preferable stack:
-You can use any of the following languages NodeJS(Typscript), Scala, Java, C#
+You can use any of the following languages NodeJS(Typscript), Scala, Java, C# or Python 
 
 Please be creative and show the best practices that you use in your daily practice.
 
